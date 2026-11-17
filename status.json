@@ -1,0 +1,74 @@
+{
+  "system_status": "operational",
+  "system_status_label": "All Systems Fully Operational",
+  "last_updated_utc": "2026-11-06T00:00:00Z",
+  "overall_uptime_30d": "99.99%",
+  "services": [
+    {
+      "id": "edge_mesh",
+      "name": "Global Edge CDN & Sovereign Anycast Mesh",
+      "category": "Edge Infrastructure",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "100.00%",
+      "latency_ms": 3.8
+    },
+    {
+      "id": "api_gateway",
+      "name": "Platform API Gateway & Workspace Auth",
+      "category": "Core Platform",
+      "status": "operational",
+      "status_label": "Operational",
+      "endpoint": "https://api.digiwebscape.com/v1/health",
+      "uptime_30d": "99.99%",
+      "latency_ms": 12.4
+    },
+    {
+      "id": "telemetry_cdn",
+      "name": "Private Insights Telemetry™ Edge Ingestion",
+      "category": "Analytics & Privacy",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "100.00%",
+      "latency_ms": 4.1
+    },
+    {
+      "id": "creator_mesh",
+      "name": "beamup.page Creator Bio Hub & Root Router",
+      "category": "Creator Publishing",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "99.98%",
+      "latency_ms": 4.5
+    },
+    {
+      "id": "billing_gateway",
+      "name": "Merchant of Record & Billing Gateway",
+      "category": "Commercial Infrastructure",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "99.99%",
+      "latency_ms": 84.0
+    },
+    {
+      "id": "email_infra",
+      "name": "Enterprise Transactional Email Infrastructure",
+      "category": "Communication Infrastructure",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "99.97%",
+      "latency_ms": 62.0
+    },
+    {
+      "id": "ai_inference",
+      "name": "AI Inference & Model Evaluation Battery",
+      "category": "AI Answer Engine Intelligence",
+      "status": "operational",
+      "status_label": "Operational",
+      "uptime_30d": "99.95%",
+      "latency_ms": 280.0
+    }
+  ],
+  "incidents": []
+}
+
