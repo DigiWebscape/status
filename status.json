@@ -1,8 +1,8 @@
 {
   "system_status": "operational",
   "system_status_label": "All Systems Fully Operational",
-  "last_updated_utc": "2026-11-06T00:00:00Z",
-  "overall_uptime_30d": "99.99%",
+  "last_updated_utc": "2026-11-17T09:58:31.258Z",
+  "overall_uptime_30d": "100.00%",
   "services": [
     {
       "id": "edge_mesh",
@@ -11,7 +11,160 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": 3.8
+      "latency_ms": 6,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "api_gateway",
@@ -20,8 +173,161 @@
       "status": "operational",
       "status_label": "Operational",
       "endpoint": "https://api.digiwebscape.com/v1/health",
-      "uptime_30d": "99.99%",
-      "latency_ms": 12.4
+      "uptime_30d": "100.00%",
+      "latency_ms": 6,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "telemetry_cdn",
@@ -30,7 +336,160 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": 4.1
+      "latency_ms": 6,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "creator_mesh",
@@ -38,8 +497,161 @@
       "category": "Creator Publishing",
       "status": "operational",
       "status_label": "Operational",
-      "uptime_30d": "99.98%",
-      "latency_ms": 4.5
+      "uptime_30d": "100.00%",
+      "latency_ms": 8,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "billing_gateway",
@@ -47,8 +659,161 @@
       "category": "Commercial Infrastructure",
       "status": "operational",
       "status_label": "Operational",
-      "uptime_30d": "99.99%",
-      "latency_ms": 84.0
+      "uptime_30d": "100.00%",
+      "latency_ms": null,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "email_infra",
@@ -56,8 +821,161 @@
       "category": "Communication Infrastructure",
       "status": "operational",
       "status_label": "Operational",
-      "uptime_30d": "99.97%",
-      "latency_ms": 62.0
+      "uptime_30d": "100.00%",
+      "latency_ms": null,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     },
     {
       "id": "ai_inference",
@@ -65,10 +983,162 @@
       "category": "AI Answer Engine Intelligence",
       "status": "operational",
       "status_label": "Operational",
-      "uptime_30d": "99.95%",
-      "latency_ms": 280.0
+      "uptime_30d": "100.00%",
+      "latency_ms": null,
+      "daily_history": [
+        {
+          "date": "2026-10-19",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-20",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-21",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-22",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-23",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-24",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-25",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-26",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-27",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-28",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-29",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-30",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-10-31",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-01",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-02",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-03",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-04",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-05",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-06",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-07",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-08",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-09",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-10",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-11",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-12",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-13",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-14",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-15",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-16",
+          "status": "operational",
+          "uptime_pct": 100
+        },
+        {
+          "date": "2026-11-17",
+          "status": "operational",
+          "uptime_pct": 100,
+          "label": "Continuous Live Probes"
+        }
+      ]
     }
   ],
   "incidents": []
 }
-
