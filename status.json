@@ -1,7 +1,7 @@
 {
   "system_status": "operational",
   "system_status_label": "All Systems Fully Operational",
-  "last_updated_utc": "2026-11-17T14:29:00.037Z",
+  "last_updated_utc": "2026-11-17T15:19:54.201Z",
   "overall_uptime_30d": "100.00%",
   "services": [
     {
@@ -11,7 +11,7 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": 6,
+      "latency_ms": 394,
       "daily_history": [
         {
           "date": "2026-10-19",
@@ -174,7 +174,7 @@
       "status_label": "Operational",
       "endpoint": "https://api.digiwebscape.com/v1/health",
       "uptime_30d": "100.00%",
-      "latency_ms": 6,
+      "latency_ms": 130,
       "daily_history": [
         {
           "date": "2026-10-19",
@@ -336,7 +336,7 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": 6,
+      "latency_ms": 394,
       "daily_history": [
         {
           "date": "2026-10-19",
@@ -498,7 +498,7 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": 8,
+      "latency_ms": 394,
       "daily_history": [
         {
           "date": "2026-10-19",
@@ -658,7 +658,7 @@
       "name": "Merchant of Record & Billing Gateway",
       "category": "Commercial Infrastructure",
       "status": "operational",
-      "status_label": "Operational",
+      "status_label": "Operational (Complimentary Free Trial Active)",
       "uptime_30d": "100.00%",
       "latency_ms": null,
       "daily_history": [
@@ -984,7 +984,7 @@
       "status": "operational",
       "status_label": "Operational",
       "uptime_30d": "100.00%",
-      "latency_ms": null,
+      "latency_ms": 414,
       "daily_history": [
         {
           "date": "2026-10-19",
@@ -1137,7 +1137,8 @@
           "uptime_pct": 100,
           "label": "Continuous Live Probes"
         }
-      ]
+      ],
+      "last_audited_at": "2026-11-17T02:00:17.859Z"
     }
   ],
   "incidents": []
