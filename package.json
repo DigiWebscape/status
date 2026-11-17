@@ -1,0 +1,10 @@
+{
+  "name": "@digiwebscape/status",
+  "version": "0.16.12",
+  "private": true,
+  "description": "DigiWebscape System Status — Live Edge Telemetry (status.digiwebscape.com)",
+  "type": "module",
+  "scripts": {
+    "probe": "node status-probe.js"
+  }
+}

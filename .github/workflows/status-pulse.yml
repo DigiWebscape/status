@@ -1,0 +1,42 @@
+name: Status Telemetry Pulse
+
+on:
+  schedule:
+    # Run every 15 minutes to keep rolling 30-day telemetry and incidents synchronized
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: status-telemetry-pulse
+  cancel-in-progress: false
+
+jobs:
+  status-pulse:
+    name: Probe Edge Status & Sync Telemetry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js (v22)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Status Telemetry Probe
+        run: node status-probe.js
+
+      - name: Commit & Push Status Updates
+        run: |
+          git config user.name "DigiWebscape Bot"
+          git config user.email "bot@digiwebscape.com"
+          if [[ -n $(git status --porcelain status.json) ]]; then
+            git add status.json
+            git commit -m "chore(status): automated edge telemetry pulse [skip ci]"
+            git push origin main
+          else
+            echo "status.json is already up-to-date. No commit needed."
+          fi
